@@ -1,5 +1,5 @@
-bread
-pasta
-milk
-potatoes
-ketchup
+bread x2
+pasta x2
+milk x4
+potatoes x6
+ketchup x2
