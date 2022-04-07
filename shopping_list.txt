@@ -1,5 +1,6 @@
 bread x2
 pasta x3
 milk x4
-potatoes x6
+tomato x6
 ketchup x1
+potatoes x5
